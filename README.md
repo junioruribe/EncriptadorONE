@@ -18,16 +18,14 @@ Por otro lado, existe un botón "Copiar" (que equivale a presionar Ctrl+V) que p
 - CSS3
 - JavaScript
 
-## :sparkles: Acceso
-Puedes acceder a la Deploy de este proyecto <a target="_blank" href="https://gustav0-ri0s.github.io/Challenge-Encriptador/">aquí</a>
-
 ## :man_student: Autor
-Desarrollado por Gustavo Rios Quevedo
+Desarrollado por Junior Alberto Uribe C. (2023)
 
 ## :pushpin: Contacto
-- Email: <a href="mailto: tavitoo03@gmail.com" target="_blank">tavitoo03@gmail.com</a>
-- <a href="https://github.com/gustav0-ri0s">GitHub</a>
-- <a href="https://www.linkedin.com/in/gustavoed4/">LinkedIn</a>
+- Email: <a href="juniorjauc@gmail.com" target="_blank">juniorjauc@gmail.com</a>
+- <a href="https://github.com/junioruribe">GitHub</a>
+- <a href="https://www.linkedin.com/in/programadorjr/">Linkedin</a>
+- <a href="portafoliowb.netlify.app">Portafolio</a>
 
 ## :gift_heart: Agradecimientos
 Este proyecto se hizo posible gracias a Oracle y Alura Latam a través del Programa ONE, el cual me ayudó a adquirir nuevos conocimientos de desarrollo web y a entender sobre lógica de programación. Muchas gracias también a los profesores de Alura Latam por hacer más sencillo la forma de aprender programación.
