@@ -2,7 +2,7 @@
 
 ## :pencil: Descripción del proyecto
 En este proyecto, el usuario puede ingresar un texto y al presionar el botón "Encriptar", este se convertirá en un texto escrito en un lenguaje secreto y aparecerá en el área derecha colindante; además, el usuario también puede ingresar texto escrito en el lenguaje secreto y al presionar el botón "Desencriptar", este volverá a estar escrito en su versión original.
-Por otro lado, existe un botón "Copiar" (que equivale a presionar Ctrl+V) que permite copiar el texto generado de la encriptación o desencriptación y pegarlo en el área de Ingreso de texto.
+Por otro lado, existe un botón "Copiar" que permite copiar el texto generado de la encriptación o desencriptación y pegarlo en el área de Ingreso de texto.
 
 :key: El lenguaje secreto, mediante el cual se puede encriptar un texto, utiliza las siguientes "llaves" de encriptación:
 - La letra "e" es convertida para "enter"
@@ -23,7 +23,6 @@ Desarrollado por Junior Alberto Uribe C. (2023)
 
 ## :pushpin: Contacto
 - Email: <a href="juniorjauc@gmail.com" target="_blank">juniorjauc@gmail.com</a>
-- <a href="https://github.com/junioruribe">GitHub</a>
 - <a href="https://www.linkedin.com/in/programadorjr/">Linkedin</a>
 - <a href="portafoliowb.netlify.app">Portafolio</a>
 
