@@ -25,6 +25,7 @@ Desarrollado por Junior Alberto Uribe C. (2023)
 - Email: <a href="juniorjauc@gmail.com" target="_blank">juniorjauc@gmail.com</a>
 - <a href="https://www.linkedin.com/in/programadorjr/">Linkedin</a>
 - <a href="portafoliowb.netlify.app">Portafolio</a>
+- <a href="https://www.facebook.com/junioruribec">Facebook</a>
 
 ## :gift_heart: Agradecimientos
 Este proyecto se hizo posible gracias a Oracle y Alura Latam a través del Programa ONE, el cual me ayudó a adquirir nuevos conocimientos de desarrollo web y a entender sobre lógica de programación. Muchas gracias también a los profesores de Alura Latam por hacer más sencillo la forma de aprender programación.
